@@ -35,8 +35,8 @@ order: 1
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157704125741345",
-        "thumbnailWidth": "400",
-        "thumbnailHeight": "400",
+        "thumbnailWidth": "300",
+        "thumbnailHeight": "300",
         "thumbnailBorderVertical": 0,
         "thumbnailBorderHorizontal": 0,
         "thumbnailLabel": {
