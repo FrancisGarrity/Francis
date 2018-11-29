@@ -11,12 +11,12 @@ slug: Gallery
 
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-# Tallangatta Valley, Vic
+
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
 order: 1
 ---
-
+ Tallangatta Valley, Vic
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
@@ -50,7 +50,7 @@ order: 1
   </body>
 </html>
 ---
-# Goldfields-Esperance, WA
+ Goldfields-Esperance, WA
 
 <html>
   <head>
@@ -64,7 +64,7 @@ order: 1
   </head>
   <body>
 
-    <h1>Gallery made with nanogallery2</h1>
+
 
     <div ID="ngy2p" data-nanogallery2='{
         "userID": "160787014@N06",
