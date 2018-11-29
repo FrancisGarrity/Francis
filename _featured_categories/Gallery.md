@@ -1,5 +1,3 @@
-
-
 ---
 # file: _featured_categories/Gallery.md
 # Featured tags need to have the `list` layout.
@@ -16,8 +14,6 @@ slug: Gallery
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
 order: 1
-
-
 
 ---
 
