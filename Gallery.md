@@ -1,5 +1,3 @@
-
-
 ---
 # file: _featured_categories/gallery.md
 # Featured tags need to have the `list` layout.
