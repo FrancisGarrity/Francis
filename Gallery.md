@@ -11,7 +11,7 @@ slug: Gallery
 
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-
+# Tallangatta Valley, Vic
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
 order: 1
@@ -29,14 +29,14 @@ order: 1
   </head>
   <body>
 
-    <h1>Gallery made with nanogallery2</h1>
+
 
     <div ID="ngy2p" data-nanogallery2='{
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157704125741345",
-        "thumbnailWidth": "300",
-        "thumbnailHeight": "300",
+        "thumbnailWidth": "250",
+        "thumbnailHeight": "250",
         "thumbnailBorderVertical": 0,
         "thumbnailBorderHorizontal": 0,
         "thumbnailLabel": {
