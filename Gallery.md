@@ -49,3 +49,38 @@ order: 1
     
   </body>
 </html>
+---
+# Goldfields-Esperance, WA
+
+<html>
+  <head>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    <link href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
+
+  </head>
+  <body>
+
+    <h1>Gallery made with nanogallery2</h1>
+
+    <div ID="ngy2p" data-nanogallery2='{
+        "userID": "160787014@N06",
+        "kind": "flickr",
+        "photoset": "72157704073300824",
+        "thumbnailWidth": "250",
+        "thumbnailHeight": "250",
+        "thumbnailBorderVertical": 0,
+        "thumbnailBorderHorizontal": 0,
+        "thumbnailLabel": {
+          "display": false
+        },
+        "thumbnailAlignment": "center"
+      }'>
+
+    </div>
+    
+  </body>
+</html>
