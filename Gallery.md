@@ -34,7 +34,7 @@ order: 1
     <div ID="ngy2p" data-nanogallery2='{
         "userID": "111237496544834758595",
         "kind": "google2",
-        "google2URL": "http://github.com/FrancisGarrity/FrancisGarrity/nanogp/nanogp.php",
+        "google2URL": "http://github.com/FrancisGarrity/FrancisGarrity/tree/master/nanogp/nanogp.php",
         "album": "6629161348504372721",
         "thumbnailOpenOriginal": true,
         "thumbnailWidth": "400",
