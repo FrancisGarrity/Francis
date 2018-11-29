@@ -32,11 +32,9 @@ order: 1
     <h1>Gallery made with nanogallery2</h1>
 
     <div ID="ngy2p" data-nanogallery2='{
-        "userID": "111237496544834758595",
-        "kind": "google2",
-        "google2URL": "http://github.com/FrancisGarrity/FrancisGarrity/tree/master/nanogp/nanogp.php",
-        "album": "6629161348504372721",
-        "thumbnailOpenOriginal": true,
+        "userID": "160787014@N06",
+        "kind": "flickr",
+        "photoset": "72157704125741345",
         "thumbnailWidth": "400",
         "thumbnailHeight": "400",
         "thumbnailBorderVertical": 0,
