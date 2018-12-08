@@ -9,14 +9,14 @@ title: Gallery
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: Gallery
 
-
 # (Optional) Write a short (~150 characters) description of this featured tag.
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 1
+order: 3
 ---
- Tallangatta Valley, Vic
+Tallangatta Valley, Vic
+
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
@@ -28,7 +28,6 @@ order: 1
 
   </head>
   <body>
-
 
 
     <div ID="ngy2p" data-nanogallery2='{
@@ -49,8 +48,11 @@ order: 1
     
   </body>
 </html>
+
+
 ---
- Goldfields-Esperance, WA
+
+Goldfields-Esperance, WA
 
 <html>
   <head>
@@ -63,7 +65,6 @@ order: 1
 
   </head>
   <body>
-
 
 
     <div ID="ngy2p" data-nanogallery2='{
@@ -84,3 +85,4 @@ order: 1
     
   </body>
 </html>
+
