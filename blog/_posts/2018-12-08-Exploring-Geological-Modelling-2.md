@@ -4,6 +4,10 @@ title: Exploring Geological Modelling - Leapfrog Geo Part 2
 description: >
 
 ---
+<video width="320" height="240" autoplay loop muted>
+  <source src="assets/new.mp4" type="video/mp4" />
+</video>
+
 <HTML>
 <HEAD> <TITLE>Activity - Insert animated GIF to HTML</TITLE> </HEAD>
 <BODY>
