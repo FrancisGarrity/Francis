@@ -4,7 +4,7 @@ title: Exploring Geological Modelling - Leapfrog Geo Part 2
 description: >
 
 ---
-<iframe frameborder="0" allowfullscreen="allowfullscreen" width="768" height="432" src="https://www.youtube.com/embed/B36YXn4n6zc?autoplay=1&loop=1&menu=0&controls=0;loop=1"></iframe>
+<iframe frameborder="0" allowfullscreen="allowfullscreen" width="768" height="432" src="https://www.youtube.com/embed/B36YXn4n6zc?autoplay=1&loop=1&menu=0&controls=0&playlist=B36YXn4n6zc"></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B36YXn4n6zc?controls=0" frameborder="0" allow="accelerometer; autoplay="1"; loop="1"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B36YXn4n6zc?controls=0" frameborder="0" allow="accelerometer; autoplay="1"; loop="1"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
