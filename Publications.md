@@ -19,6 +19,8 @@ order: 2
 MSc Thesis
 <iframe src="https://drive.google.com/file/d/1trVOF37whwrYiUV1x-3zPWlakXvOA6PA/preview" width="800" height="800"></iframe>
 ---
+ <a href="https://www.tandfonline.com/doi/full/10.1080/0028825X.2017.1293695?scroll=top&needAccess=true">Independent contrasts reveal climatic relationships of divaricate plants in New Zealand - NZ Journal of Botany Paper</a>
+---
 Graduate Geochemistry Assignment
 <iframe src="https://drive.google.com/file/d/0ByrQm6NOKRwUcG13SVdINVd0S1k/preview" width="800" height="800"></iframe>
 ---
@@ -31,5 +33,4 @@ A review of evaporite deposition, diapirism and the structural features and expl
 Transfer functions: essential tools in modern Quaternary studies?
 <iframe src="https://drive.google.com/file/d/0ByrQm6NOKRwUeG5JbXVxbHV2Z3M/preview" width="800" height="800"></iframe>
 ---
- <a href="https://www.tandfonline.com/doi/full/10.1080/0028825X.2017.1293695?scroll=top&needAccess=true">Independent contrasts reveal climatic relationships of divaricate plants in New Zealand - NZ Journal of Botany Paper</a>
----
+
