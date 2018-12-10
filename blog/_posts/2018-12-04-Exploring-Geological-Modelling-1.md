@@ -12,6 +12,9 @@ Geological modelling software is widely used within the mining industry, and pop
 
 Tutorial 1: Introduction to Leapfrog Geo:
 The first tutorial in this document simply provides an introduction to the Leapfrog Geo interface, including navigation of the project tree. We are also introduced to some of the basic functionality of the software, including displaying drillhole data, defining a model’s boundary, using the slicer to slice objects in the scene, using the moving plane to measure trends, using the ruler to measure distances and creating and evaluating cross sections.
+
+-F. D. A. Garrity, MSc
+
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
@@ -43,5 +46,3 @@ The first tutorial in this document simply provides an introduction to the Leapf
     
   </body>
 </html>
-
--F. D. A. Garrity, MSc
