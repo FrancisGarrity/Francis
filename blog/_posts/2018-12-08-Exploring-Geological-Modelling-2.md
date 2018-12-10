@@ -14,6 +14,7 @@ In order to set up the project, we are taught to georeference an aerial photo, s
 
 The next task is to analyse the drillhole data. An important note is that contact surfaces should be defined by starting with the oldest unit and working up. A typical workflow for defining the model involves Generating contact surfaces that correspond to the boundaries between lithological units, refining the contact surfaces, arranging them in chronological order, and then finally using  the surfaces and the chronological order to divide the geological model into units. Contact surfaces can be set to interact with other surfaces in various ways - these include "deposit contact surfaces", "erosion contact surfaces", "intrusion contact surfaces" and "vein contact surfaces".
 
+-F. D. A. Garrity, MSc
 
 <html>
   <head>
@@ -46,4 +47,3 @@ The next task is to analyse the drillhole data. An important note is that contac
   </body>
 </html>
 
--F. D. A. Garrity, MSc
