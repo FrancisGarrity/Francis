@@ -16,7 +16,7 @@ description: >
 menu: true
 order: 1
 ---
-<iframe src="https://drive.google.com/file/d/14LOXouRUDz7pGcEntyF9p0riQ221C3_X/view?usp=sharing" width="800" height="800"></iframe>
+<iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" width="800" height="800"></iframe>
 ### Contacts and Clients
 ---
 
