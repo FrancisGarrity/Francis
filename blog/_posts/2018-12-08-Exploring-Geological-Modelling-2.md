@@ -16,7 +16,28 @@ The next task is to analyse the drillhole data. An important note is that contac
 
 -F. D. A. Garrity, MSc
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/160787014@N06/albums/72157704488657865" title="Leapfrog Tut 2"><img src="https://farm2.staticflickr.com/1912/45341509375_3d84d29f4a_z.jpg" width="640" height="465" alt="Leapfrog Tut 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!-- DC Flickr Feed Start -->
+<div id="dc_jflickr_feed_container" style="width:80%;">
+  <ul id="jflickr_cbox" class="dc_jflickr_thumbs"></ul>
+</div>
+<!-- DC Flickr Feed End -->
+<div class="dc_clear"></div> <!-- line break/clear line --> 
+
+<!-- DC Flickr Feed Settings --> 
+<script type="text/javascript">
+	$('#jflickr_cbox').jflickrfeed({
+		limit: 16, // number of images to show
+		qstrings: { id: '160787014@N06' // id of flickr gallery (use idgettr.com to get flickr gallery id)
+		},
+		// Small images: {{image_s}}
+		// Medium images: {{image}}
+		// Large images: {{image_b}}
+		itemTemplate: '<li>' + '<a rel="colorbox" href="{{image_b}}" title="{{title}}">' + '<img src="{{image_s}}" alt="{{title}}" />' + '</a>' + '</li>'
+	}, function(data) {
+		$('#jflickr_cbox a').colorbox();
+	});
+</script>
+  
 
 <html>
   <head>
