@@ -16,6 +16,8 @@ The next task is to analyse the drillhole data. An important note is that contac
 
 -F. D. A. Garrity, MSc
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/160787014@N06/albums/72157704488657865" title="Leapfrog Tut 2"><img src="https://farm2.staticflickr.com/1912/45341509375_3d84d29f4a_z.jpg" width="640" height="465" alt="Leapfrog Tut 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
