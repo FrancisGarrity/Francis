@@ -15,6 +15,7 @@ slug: Gallery
 menu: true
 order: 3
 ---
+<a href="javascript:window.location.reload(true)">Reload</a>
 Tallangatta Valley, Vic
 
 <html>
