@@ -16,6 +16,7 @@ The next task is to analyse the drillhole data. An important note is that contac
 
 -F. D. A. Garrity, MSc
 
+<script>
 <!-- DC Flickr Feed Start -->
 <div id="dc_jflickr_feed_container" style="width:80%;">
   <ul id="jflickr_cbox" class="dc_jflickr_thumbs"></ul>
