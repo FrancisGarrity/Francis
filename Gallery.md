@@ -15,12 +15,15 @@ slug: Gallery
 menu: true
 order: 3
 ---
-
+<script>
+function reloadThePage(){
+    window.location.reload();
+} 
+</script>
 Tallangatta Valley, Vic
 
 <html>
   <head>
-    Location.reload(true);
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
