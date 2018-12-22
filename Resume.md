@@ -20,7 +20,7 @@ order: 1
 
 ### Contacts and Clients
 ---
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/z7QooqA" data-context="false"><a href="//imgur.com/z7QooqA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <html>
 <!---  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,8 +32,7 @@ img {
 </style>
 </head>--->
 <body>
-<img src="companylogos.PNG" width="1001" height="318">
-  <img src="https://github.com/FrancisGarrity/Francis/companylogos.PNG" width="1001" height="318">
+<img src="/companylogos.PNG" width="1001" height="318">
 </body>
 </html>
 <!---
