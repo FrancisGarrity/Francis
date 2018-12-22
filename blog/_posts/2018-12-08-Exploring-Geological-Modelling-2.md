@@ -16,34 +16,4 @@ The next task is to analyse the drillhole data. An important note is that contac
 
 -F. D. A. Garrity, MSc
 
-<html>
-  <head>
-    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
-
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
-    <link href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
-
-  </head>
-  <body>
-  
-    <div ID="ngy2p4" data-nanogallery2='{
-        "userID": "160787014@N06",
-        "kind": "flickr",
-        "photoset": "72157704488657865",
-        "thumbnailOpenOriginal": true,
-        "thumbnailWidth": "200",
-        "thumbnailBorderVertical": 0,
-        "thumbnailBorderHorizontal": 0,
-        "thumbnailLabel": {
-          "display": false
-        },
-        "thumbnailAlignment": "center"
-      }'>
-
-    </div>
-    
-  </body>
-</html>
-
+<iframe src="https://albumizr.com/a/gAJ8" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
