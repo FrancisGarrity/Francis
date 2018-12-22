@@ -21,7 +21,7 @@ order: 1
 ---
 
 <html>
-  <head>
+<!---  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 img {
@@ -29,7 +29,7 @@ img {
   height: auto;
 }
 </style>
-</head>
+</head>--->
 <body>
 <img src="assets/img/company logos.PNG" width="1001" height="318">
 </body>
