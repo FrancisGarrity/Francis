@@ -16,9 +16,7 @@ menu: true
 order: 3
 ---
 Tallangatta Valley, Vic
-<iframe src="https://albumizr.com/a/Nw9I" scrolling="yes" frameborder="0" style="overflow:hidden;height:300%;width:300%" height="700" width="1000"></iframe>
-
-
+<iframe src="https://albumizr.com/a/Nw9I" scrolling="yes" frameborder="0" height="700" width="1000"></iframe>
 
 ---
 Goldfields-Esperance, WA
