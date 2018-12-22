@@ -17,12 +17,12 @@ order: 3
 ---
 Tallangatta Valley, Vic
 <iframe src="https://albumizr.com/a/Nw9I" style="height:700;width:100%" height= "700" width="100%"></iframe> 
-<iframe src="https://albumizr.com/a/Nw9I" scrolling="yes" frameborder="0" height="700" width="800"></iframe>
 
 ---
 Goldfields-Esperance, WA
-<iframe src="https://albumizr.com/a/Z8Jo" scrolling="yes" frameborder="0" allowfullscreen width="800" height="700"></iframe>
+<iframe src="https://albumizr.com/a/Z8Jo" style="height:700;width:100%" height= "700" width="100%"></iframe> 
 
 ---
 Aspiring National Park, NZ
-<iframe src="https://albumizr.com/a/rHil" scrolling="yes" frameborder="0" allowfullscreen width="800" height="700"></iframe>
+<iframe src="https://albumizr.com/a/rHil" style="height:700;width:100%" height= "700" width="100%"></iframe> 
+
