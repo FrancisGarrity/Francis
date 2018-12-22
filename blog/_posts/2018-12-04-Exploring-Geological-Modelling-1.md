@@ -27,7 +27,7 @@ The first tutorial in this document simply provides an introduction to the Leapf
   </head>
   <body>
 
-    <div ID="ngy2p" data-nanogallery2='{
+    <div ID="ngy2p3" data-nanogallery2='{
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157701046342482",
