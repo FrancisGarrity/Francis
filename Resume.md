@@ -32,7 +32,7 @@ img {
 </style>
 </head>--->
 <body>
-<img src="/companylogos.PNG" width="1001" height="318">
+<img src="/companylogos.png" width="1001" height="318">
 </body>
 </html>
 <!---
