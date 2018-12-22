@@ -5,7 +5,8 @@ description: >
 
 ---
 Tutorial 2: Introduction to Leapfrog Geo: Modelling Veins
-<iframe frameborder="0" allowfullscreen="allowfullscreen" width="768" height="432" src="https://www.youtube.com/embed/B36YXn4n6zc?autoplay=1&loop=1&menu=0&controls=0&showinfo=0&autohide=1&playlist=B36YXn4n6zc"></iframe>
+
+<iframe frameborder="0" allowfullscreen="allowfullscreen" width="100%" height="432" src="https://www.youtube.com/embed/B36YXn4n6zc?autoplay=1&loop=1&menu=0&controls=0&showinfo=0&autohide=1&playlist=B36YXn4n6zc" style="height:432;width:100%"></iframe>
 
 The aim of this tutorial is to import drillhole data and use it to build two geological models of a series of veins and
 the lithologies in which they occur. In the first model we're shown how to build individual veins, while the second model demonstrates the generation of veins as part of a vein system.
