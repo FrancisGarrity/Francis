@@ -28,7 +28,7 @@ The next task is to analyse the drillhole data. An important note is that contac
   </head>
   <body>
   
-    <div ID="ngy2p" data-nanogallery2='{
+    <div ID="ngy2p4" data-nanogallery2='{
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157704488657865",
