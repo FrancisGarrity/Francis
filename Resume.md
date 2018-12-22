@@ -17,7 +17,7 @@ menu: true
 order: 1
 ---
 <body style="margin:0px;padding:0px;">
-    <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" style="height:800;width:100%" height= "800" width="100%"></iframe>
+    <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" style="height:600;width:100%" height= "600" width="100%"></iframe>
 </body>
 
 ### Contacts and Clients
@@ -33,9 +33,9 @@ img {
 }
 </style>
 </head>--->
-<body>
-<iframe src="company logos.JPG" style="height:318;width:100%" width="1001" height="318"></iframe>
-</body>
+
+<image src="company logos.JPG" style="height:318;width:100%" width="1001" height="318">
+
 </html>
 <!---
  <html>
