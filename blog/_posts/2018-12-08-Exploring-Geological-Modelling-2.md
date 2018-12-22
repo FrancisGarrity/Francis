@@ -16,4 +16,4 @@ The next task is to analyse the drillhole data. An important note is that contac
 
 -F. D. A. Garrity, MSc
 
-<iframe src="https://albumizr.com/a/gAJ8" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+<iframe src="https://albumizr.com/a/gAJ8" style="height:400;width:100%" height= "400" width="100%"></iframe> 
