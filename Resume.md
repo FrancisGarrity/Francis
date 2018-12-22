@@ -31,7 +31,7 @@ img {
 </style>
 </head>--->
 <body>
-<img src="company logos.PNG" width="1001" height="318">
+<img src="companylogos.PNG" width="1001" height="318">
 </body>
 </html>
 <!---
