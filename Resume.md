@@ -17,7 +17,7 @@ menu: true
 order: 1
 ---
 <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" width="800" height="800"></iframe>
----
+
 ### Contacts and Clients
 ---
 <html>
@@ -31,7 +31,7 @@ img {
 </style>
 </head>--->
 <body>
-<img src="assets/img/company logos.PNG" width="1001" height="318">
+<img src="company logos.PNG" width="1001" height="318">
 </body>
 </html>
 <!---
