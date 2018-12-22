@@ -15,4 +15,4 @@ The first tutorial in this document simply provides an introduction to the Leapf
 
 -F. D. A. Garrity, MSc
 
-<iframe src="https://albumizr.com/a/6H9y" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+<iframe src="https://albumizr.com/a/6H9y" style="height:400;width:100%" height= "400" width="100%"></iframe> 
