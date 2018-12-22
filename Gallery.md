@@ -21,9 +21,10 @@ Tallangatta Valley, Vic
 ---
 
 Goldfields-Esperance, WA
-<iframe src="https://albumizr.com/a/Z8Jo" scrolling="yes" frameborder="0" allowfullscreen width="1000" height="700"></iframe>
-
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.25%;">
+<iframe src="https://albumizr.com/a/rHil" scrolling="yes" frameborder="0" allowfullscreen width="1000" height="700"></iframe>
+</div>
 ---
 
 Aspiring National Park, NZ
-<iframe src="https://albumizr.com/a/rHil" scrolling="yes" frameborder="0" allowfullscreen width="1000" height="700"></iframe>
+<iframe src="https://albumizr.com/a/Z8Jo" scrolling="yes" frameborder="0" allowfullscreen width="1000" height="700"></iframe>
