@@ -20,8 +20,6 @@ order: 1
     <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" style="height:800;width:100%" height= "800" width="100%"></iframe>
 </body>
 
-<iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" width="800" height="800"></iframe>
-
 ### Contacts and Clients
 ---
 
