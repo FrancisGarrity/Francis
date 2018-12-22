@@ -34,7 +34,7 @@ img {
 </body>
 </html>
 
-<html>
+<!–– <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -71,3 +71,4 @@ img {
     
   </body>
 </html>
+-->
