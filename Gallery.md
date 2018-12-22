@@ -16,9 +16,8 @@ menu: true
 order: 3
 ---
 Tallangatta Valley, Vic
-<body style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://albumizr.com/a/Nw9I" scrolling="yes" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="700" width="1000"></iframe>
-</body>
+<iframe src="https://albumizr.com/a/Nw9I" scrolling="yes" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="700" width="1000"></iframe>
+
 
 
 ---
