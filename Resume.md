@@ -17,7 +17,7 @@ menu: true
 order: 1
 ---
 <body style="margin:0px;padding:0px;overflow:hidden">
-    <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" frameborder="0" style="height:800;width:100%" height= "800" width="100%"></iframe>
+    <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" style="height:800;width:100%" height= "800" width="100%"></iframe>
 </body>
 <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" width="800" height="800"></iframe>
 
