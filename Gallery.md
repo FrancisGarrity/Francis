@@ -54,7 +54,7 @@ Tallangatta Valley, Vic
 
 Goldfields-Esperance, WA
 
-<iframe src="https://albumizr.com/a/Z8Jo" scrolling="yes" frameborder="0" allowfullscreen width="700" height="400"></iframe>
+<iframe src="https://albumizr.com/a/Z8Jo" scrolling="yes" frameborder="0" allowfullscreen width="700" height="700"></iframe>
 
 <html>
   <head>
