@@ -19,6 +19,7 @@ order: 1
 <iframe src="https://drive.google.com/file/d/16F9homcm5N8rfrXUVCeK5GeN0DFVCZDK/preview" width="800" height="800"></iframe>
 ### Contacts and Clients
 ---
+
 <html>
   <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,8 +34,8 @@ img {
 <img src="assets/img/company logos.PNG" width="1001" height="318">
 </body>
 </html>
-
-<!–– <html>
+<!---
+ <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -43,6 +44,7 @@ img {
     <link href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
 
+<!---
   </head>
   <body>
 
@@ -68,7 +70,8 @@ img {
       }'>
 
     </div>
-    
+ 
+<!---   
   </body>
 </html>
--->
+--->
