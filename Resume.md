@@ -32,7 +32,7 @@ order: 1
   </head>
   <body>
 
-    <div ID="ngy2p" data-nanogallery2='{
+    <div ID="ngy2p5" data-nanogallery2='{
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157704141006324",
