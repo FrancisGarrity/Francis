@@ -30,7 +30,7 @@ Tallangatta Valley, Vic
   <body>
 
 
-    <div ID="ngy2p" data-nanogallery2='{
+    <div ID="ngy2p1" data-nanogallery2='{
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157704125741345",
@@ -67,7 +67,7 @@ Goldfields-Esperance, WA
   <body>
 
 
-    <div ID="ngy2p" data-nanogallery2='{
+    <div ID="ngy2p2" data-nanogallery2='{
         "userID": "160787014@N06",
         "kind": "flickr",
         "photoset": "72157704073300824",
