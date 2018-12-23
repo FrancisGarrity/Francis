@@ -23,7 +23,6 @@ order: 1
 ### Contacts and Clients
 ---
 
-<html>
 <!---  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
@@ -36,7 +35,6 @@ img {
 
 <image src="company logos.JPG" style="height:318;width:100%" width="1001" height="318">
 
-</html>
 <!---
  <html>
   <head>
