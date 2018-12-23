@@ -33,7 +33,7 @@ img {
 </style>
 </head>--->
 
-<image src= "Francis/company logos.JPG" style="height:318;width:100%" width="1001" height="318">
+<image src= "https://github.com/FrancisGarrity/Francis.github.io/raw/master/company logos.JPG" style="height:318;width:100%" width="1001" height="318">
 
 <!---
  <html>
