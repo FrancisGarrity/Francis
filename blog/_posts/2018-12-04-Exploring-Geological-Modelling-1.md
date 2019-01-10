@@ -9,7 +9,7 @@ description: >
 <image src= "https://francisgarrity.github.io/Francis/assets/img/Tut 1.jpg" style="height:100%;width:100%" width="640" height="379">
 
 
-
+<br>
  
  Geological modelling is a fairly new subdiscipline of geology, containing aspects of structural geology and stratigraphy; as well a number of other fields. The ability to create computerized representations of subsurface geology is powerful, particularly when combined with geochemical datasets and geostatistical interpolation techniques. 
 
@@ -18,10 +18,10 @@ Geological modelling software is widely used within the mining industry, and pop
 Tutorial 1: Introduction to Leapfrog Geo:
 The first tutorial in this document simply provides an introduction to the Leapfrog Geo interface, including navigation of the project tree. We are also introduced to some of the basic functionality of the software, including displaying drillhole data, defining a model’s boundary, using the slicer to slice objects in the scene, using the moving plane to measure trends, using the ruler to measure distances and creating and evaluating cross sections.
 
-
+<br>
  -F. D. A. Garrity, MSc
  
 
 
-
+<br>
 <iframe src="https://albumizr.com/a/6H9y" style="height:400;width:100%" height= "400" width="100%"></iframe> 
