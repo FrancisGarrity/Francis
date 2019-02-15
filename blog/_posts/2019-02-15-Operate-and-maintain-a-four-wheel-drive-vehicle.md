@@ -25,5 +25,5 @@ I would highly recommend that geologists gain the RIIVEH305E certification. As a
 <i>2019 Suzuki Jimny </i>
  
 <br>
-
+<br>
 -F. D. A. Garrity, MSc
