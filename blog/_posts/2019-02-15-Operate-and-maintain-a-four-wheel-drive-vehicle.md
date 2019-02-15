@@ -6,7 +6,7 @@ description: >
 ---
 
 
-<image src= "https://francisgarrity.github.io/Francis/assets/img/Hilldescent.jpg" style="height:50%;width:50%;" img align="middle">
+<image src= "https://francisgarrity.github.io/Francis/assets/img/Hilldescent.jpg" style="height:50%;width:50%;margin:auto;">
 <i>The top of the hill descent section of our course </i>
 
 “RIIVEH305E - Operate and maintain a four wheel drive vehicle” is a unit describing the skills and knowledge required to operate and maintain a four wheel drive vehicle in the resource industry.
