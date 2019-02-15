@@ -7,7 +7,7 @@ description: >
 RIIVEH305E - Operate and maintain a four wheel drive vehicle
 
 
-<image src= "https://francisgarrity.github.io/Francis/assets/img/Hilldescent.jpg" style="height:50%;width:50%; align="middle">
+<image src= "https://francisgarrity.github.io/Francis/assets/img/Hilldescent.jpg" style="height:50%;width:50%;>
 
 <i>The top of the hill descent section of our course </i>
 
