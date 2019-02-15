@@ -23,7 +23,7 @@ I would highly recommend that geologists gain the RIIVEH305E certification. As a
 
 <image src= "https://francisgarrity.github.io/Francis/assets/img/SUZ2948-3160x1720-Jimny_gen02.jpg" style="height:100%;width:100%" width="640" height="379">
 <i>2019 Suzuki Jimny </i>
-
+ 
 
 
 -F. D. A. Garrity, MSc
