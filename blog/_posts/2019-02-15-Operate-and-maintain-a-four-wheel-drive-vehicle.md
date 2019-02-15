@@ -7,7 +7,7 @@ description: >
 RIIVEH305E - Operate and maintain a four wheel drive vehicle
 
 
-<image src= "https://francisgarrity.github.io/Francis/assets/img/Hilldescent.jpg" style="height:100%;width:100%" width="640" height="379">
+<image src= "https://francisgarrity.github.io/Francis/assets/img/Hilldescent.jpg" style="height:50%;width:50%">
 
 “RIIVEH305E - Operate and maintain a four wheel drive vehicle” is a unit describing the skills and knowledge required to operate and maintain a four wheel drive vehicle in the resource industry.
 The significant volume of off-road driving required in mining and exploration, often in remote areas, means completion of this course is mandatory to work in many exploration companies.
