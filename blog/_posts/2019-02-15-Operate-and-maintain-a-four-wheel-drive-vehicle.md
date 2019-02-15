@@ -19,4 +19,7 @@ Practical components of the course included pre-start vehicle checks, wheel chan
 
 I would highly recommend that geologists gain the RIIVEH305E certification. As a result of Drive Safe Australia’s instruction, my confidence with off-road driving has improved. Further, I have acquired an appreciation for the recreational value of 4X4 vehicles. The 2019 Suzuki Jimny now looks like a particularly tempting car…
 
+<image src= "https://francisgarrity.github.io/Francis/assets/img/SUZ2948-3160x1720-Jimny_gen02.jpg" style="height:100%;width:100%" width="640" height="379">
+
+
 -F. D. A. Garrity, MSc
