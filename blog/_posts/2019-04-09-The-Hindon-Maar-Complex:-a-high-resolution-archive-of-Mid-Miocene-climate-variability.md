@@ -1,12 +1,5 @@
 ---
 layout: post
-title: 
-description: >
-
----
-
----
-layout: post
 title: The Hindon Maar Complex: a high-resolution archive of Mid-Miocene climate variability 
 description: >
 
